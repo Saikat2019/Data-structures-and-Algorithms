@@ -1,1 +1,4 @@
 ##	instructions about files inside this directory		##
+in folder insertion sort -> insertionsort.py---insertion sort on an integer array
+
+in folder mergesort -> mergesort.py---merge sort on an integer array
